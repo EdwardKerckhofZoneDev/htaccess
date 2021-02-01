@@ -11,9 +11,8 @@
   "license": "MIT",
   "keywords": [
     "config",
-    "browserlistsrc",
-    "browserlists",
-    "html",
+    "htaccess",
+    "apache",
     "code"
   ],
   "repository": {
